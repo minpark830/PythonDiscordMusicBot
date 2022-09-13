@@ -9,4 +9,4 @@ A discord music bot that serves basic functions of a music bot, similar to the r
 - Implementation of machine learning for recommendations based on previous music request from users
 
 ## Contributors
-minwoopark2003 and BobbytheFischer
+minwoopark830 and BobbytheFischer
